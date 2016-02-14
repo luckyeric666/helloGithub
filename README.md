@@ -1,3 +1,3 @@
 # hello
 
-This is my first day at very happy MasterRebase JP.
+This is my first day at very happy RebaseMaster JP.
