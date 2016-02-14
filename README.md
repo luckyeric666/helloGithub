@@ -1,3 +1,3 @@
 # hello
 
-This is my first day at very happy StashStashStash JP.
+This is my first day at very happy Feature2 JP.
