@@ -1,3 +1,3 @@
 # hello
 
-This is my first day at not not ignore JP.
+This is my first day at very happy StashStashStash JP.
